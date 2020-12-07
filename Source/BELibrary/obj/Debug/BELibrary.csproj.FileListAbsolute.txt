@@ -1,0 +1,180 @@
+D:\Project\CinemaOnline\BELibrary\bin\Debug\BELibrary.dll.config
+D:\Project\CinemaOnline\BELibrary\bin\Debug\BELibrary.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\BELibrary.pdb
+D:\Project\CinemaOnline\BELibrary\bin\Debug\AutoMapper.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\EntityFramework.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.Buffers.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.Memory.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.ValueTuple.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+D:\Project\CinemaOnline\BELibrary\bin\Debug\AutoMapper.pdb
+D:\Project\CinemaOnline\BELibrary\bin\Debug\AutoMapper.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\Project\CinemaOnline\BELibrary\bin\Debug\EntityFramework.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\System.ValueTuple.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+D:\Project\CinemaOnline\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Update_Col_SoundQuality_Table_CinemaRoom.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Col_ImageUrl_Table_Toping.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_StartWeek_Column_MovieCalendar_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Change_Time_Not_NUll_TimeFrame.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Two_Column_Table_Promotion.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Remove_Some_Fields.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Column_Table_Toping.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Update_IsFilm_Column_Table_Promotion.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Update_Promotion_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Culumn_To_User_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Some_Fields_Table_Promotion.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Image_Column_Film_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Two_Column_Film_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_FK_MovieCalendar_CinemaRoom.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Column_CreaterId_Table_News.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Fix_Some_Culumn_Database.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Update_OrderDetail.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_DateTimeDetail_MovieCalendar.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Some_Price_Col_Seat_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_Payment_Column_Orders_Table.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.dll
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.pdb
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Modify_Toping_To_Topping.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.csprojAssemblyReference.cache
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_New_Table_Gallery.resources
+D:\Project\CinemaOnline\BELibrary\obj\Debug\BELibrary.Migrations.Add_New_Column_UrlThumb_To_Table_Gallery.resources
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\BELibrary.dll.config
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\BELibrary.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\BELibrary.pdb
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\AutoMapper.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\EntityFramework.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\System.Buffers.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\System.Memory.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\System.ValueTuple.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\AutoMapper.pdb
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\AutoMapper.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\EntityFramework.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\System.ValueTuple.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+D:\Project\temp\PatientManagement\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.csprojAssemblyReference.cache
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Change_Name_Admin_Table_To_Account.resources
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.dll
+D:\Project\temp\PatientManagement\BELibrary\obj\Debug\BELibrary.pdb
+D:\Project\PatientManagement\BELibrary\bin\Debug\BELibrary.dll.config
+D:\Project\PatientManagement\BELibrary\bin\Debug\BELibrary.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\BELibrary.pdb
+D:\Project\PatientManagement\BELibrary\bin\Debug\AutoMapper.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\EntityFramework.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\System.Buffers.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\System.Memory.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\System.ValueTuple.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+D:\Project\PatientManagement\BELibrary\bin\Debug\AutoMapper.pdb
+D:\Project\PatientManagement\BELibrary\bin\Debug\AutoMapper.xml
+D:\Project\PatientManagement\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\Project\PatientManagement\BELibrary\bin\Debug\EntityFramework.xml
+D:\Project\PatientManagement\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\PatientManagement\BELibrary\bin\Debug\System.ValueTuple.xml
+D:\Project\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\Project\PatientManagement\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+D:\Project\PatientManagement\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_New_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Change_Required_Column_Table_Record.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_New_Table_Doctor_Faculty.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_DoctorId_To_Record_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_DoctorId_To_DetailRecord_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Change_Prescription_Allow_Null_DetailRecord_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_FK_AttachmentAssign.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_Name_Attachment.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Modify_DetailPrescription_Prescription.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_Unit_DetailPrescription_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Edit_Account_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_Item_To_MedicalSupply.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_Prop_To_MedicalSupply.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_Status_To_Record_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Edit_Status_To_Record_Table.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.dll
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.pdb
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.Migrations.Add_Base_Tabel_Prop.resources
+D:\Project\PatientManagement\BELibrary\obj\Debug\BELibrary.csprojAssemblyReference.cache
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.csprojAssemblyReference.cache
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_New_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Change_Required_Column_Table_Record.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_New_Table_Doctor_Faculty.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_DoctorId_To_Record_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_DoctorId_To_DetailRecord_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Change_Prescription_Allow_Null_DetailRecord_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_FK_AttachmentAssign.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Name_Attachment.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Modify_DetailPrescription_Prescription.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Unit_DetailPrescription_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Edit_Account_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Item_To_MedicalSupply.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Prop_To_MedicalSupply.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Status_To_Record_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Edit_Status_To_Record_Table.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Base_Tabel_Prop.resources
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.dll
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.pdb
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\BELibrary.dll.config
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\BELibrary.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\BELibrary.pdb
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\AutoMapper.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\EntityFramework.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\AutoMapper.pdb
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\AutoMapper.xml
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\EntityFramework.xml
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+D:\University\4-year\Project 3\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\System.Memory.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\University\4-year\Project 3\Source\BELibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll

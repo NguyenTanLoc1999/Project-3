@@ -1,0 +1,288 @@
+D:\Project\temp\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csprojAssemblyReference.cache
+D:\Project\temp\PatientManagement\PatientManagement\bin\PatientManagement.dll.config
+D:\Project\temp\PatientManagement\PatientManagement\bin\PatientManagement.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\PatientManagement.pdb
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\csc.exe
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\csc.exe.config
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\csc.rsp
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\csi.exe
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\csi.exe.config
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\csi.rsp
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.AppContext.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Console.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.IO.Compression.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.IO.Pipes.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.Claims.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.ValueTuple.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Xml.XPath.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\vbc.exe
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\vbc.exe.config
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\vbc.rsp
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\VBCSCompiler.exe
+D:\Project\temp\PatientManagement\PatientManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\temp\PatientManagement\PatientManagement\bin\Antlr3.Runtime.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\AutoMapper.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\BELibrary.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\log4net.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\Newtonsoft.Json.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.ValueTuple.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Helpers.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Mvc.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Optimization.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Razor.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.WebPages.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.WebPages.Razor.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\WebGrease.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\EntityFramework.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\Z.EntityFramework.Plus.EF6.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\Z.EntityFramework.Extensions.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\Z.Expressions.Eval.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\BELibrary.pdb
+D:\Project\temp\PatientManagement\PatientManagement\bin\BELibrary.dll.config
+D:\Project\temp\PatientManagement\PatientManagement\bin\AutoMapper.pdb
+D:\Project\temp\PatientManagement\PatientManagement\bin\AutoMapper.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\log4net.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.ValueTuple.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Helpers.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Mvc.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Optimization.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.Razor.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.WebPages.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\System.Web.WebPages.Razor.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\Newtonsoft.Json.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\Antlr3.Runtime.pdb
+D:\Project\temp\PatientManagement\PatientManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\EntityFramework.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\Z.EntityFramework.Plus.EF6.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\Z.EntityFramework.Extensions.xml
+D:\Project\temp\PatientManagement\PatientManagement\bin\Z.Expressions.Eval.xml
+D:\Project\temp\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.CopyComplete
+D:\Project\temp\PatientManagement\PatientManagement\obj\Debug\PatientManagement.dll
+D:\Project\temp\PatientManagement\PatientManagement\obj\Debug\PatientManagement.pdb
+D:\Project\temp\PatientManagement\PatientManagement\bin\EntityFramework.SqlServer.dll
+D:\Project\temp\PatientManagement\PatientManagement\bin\EntityFramework.SqlServer.xml
+D:\Project\PatientManagement\PatientManagement\bin\PatientManagement.dll.config
+D:\Project\PatientManagement\PatientManagement\bin\PatientManagement.dll
+D:\Project\PatientManagement\PatientManagement\bin\PatientManagement.pdb
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\csc.exe
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\csc.exe.config
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\csc.rsp
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\csi.exe
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\csi.exe.config
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\csi.rsp
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.AppContext.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Console.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.IO.Compression.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.IO.Pipes.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.Claims.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.ValueTuple.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Xml.XPath.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\vbc.exe
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\vbc.exe.config
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\vbc.rsp
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\VBCSCompiler.exe
+D:\Project\PatientManagement\PatientManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\PatientManagement\PatientManagement\bin\Antlr3.Runtime.dll
+D:\Project\PatientManagement\PatientManagement\bin\AutoMapper.dll
+D:\Project\PatientManagement\PatientManagement\bin\BELibrary.dll
+D:\Project\PatientManagement\PatientManagement\bin\CKFinder.dll
+D:\Project\PatientManagement\PatientManagement\bin\EntityFramework.dll
+D:\Project\PatientManagement\PatientManagement\bin\EntityFramework.SqlServer.dll
+D:\Project\PatientManagement\PatientManagement\bin\log4net.dll
+D:\Project\PatientManagement\PatientManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\PatientManagement\PatientManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\PatientManagement\PatientManagement\bin\Newtonsoft.Json.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.ValueTuple.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Helpers.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Mvc.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Optimization.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Razor.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.WebPages.dll
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.WebPages.Razor.dll
+D:\Project\PatientManagement\PatientManagement\bin\WebGrease.dll
+D:\Project\PatientManagement\PatientManagement\bin\Z.EntityFramework.Plus.EF6.dll
+D:\Project\PatientManagement\PatientManagement\bin\Z.EntityFramework.Extensions.dll
+D:\Project\PatientManagement\PatientManagement\bin\Z.Expressions.Eval.dll
+D:\Project\PatientManagement\PatientManagement\bin\BELibrary.pdb
+D:\Project\PatientManagement\PatientManagement\bin\BELibrary.dll.config
+D:\Project\PatientManagement\PatientManagement\bin\AutoMapper.pdb
+D:\Project\PatientManagement\PatientManagement\bin\AutoMapper.xml
+D:\Project\PatientManagement\PatientManagement\bin\EntityFramework.xml
+D:\Project\PatientManagement\PatientManagement\bin\EntityFramework.SqlServer.xml
+D:\Project\PatientManagement\PatientManagement\bin\log4net.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.ValueTuple.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Helpers.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Mvc.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Optimization.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.Razor.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.WebPages.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Project\PatientManagement\PatientManagement\bin\System.Web.WebPages.Razor.xml
+D:\Project\PatientManagement\PatientManagement\bin\Newtonsoft.Json.xml
+D:\Project\PatientManagement\PatientManagement\bin\Antlr3.Runtime.pdb
+D:\Project\PatientManagement\PatientManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\PatientManagement\PatientManagement\bin\Z.EntityFramework.Plus.EF6.xml
+D:\Project\PatientManagement\PatientManagement\bin\Z.EntityFramework.Extensions.xml
+D:\Project\PatientManagement\PatientManagement\bin\Z.Expressions.Eval.xml
+D:\Project\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csprojAssemblyReference.cache
+D:\Project\PatientManagement\PatientManagement\obj\Debug\PatientManagement.csproj.CopyComplete
+D:\Project\PatientManagement\PatientManagement\obj\Debug\PatientManagement.dll
+D:\Project\PatientManagement\PatientManagement\obj\Debug\PatientManagement.pdb
+D:\University\4-year\Project 3\Source\PatientManagement\obj\Debug\PatientManagement.csprojAssemblyReference.cache
+D:\University\4-year\Project 3\Source\PatientManagement\obj\Debug\PatientManagement.csproj.CoreCompileInputs.cache
+D:\University\4-year\Project 3\Source\PatientManagement\obj\Debug\PatientManagement.dll
+D:\University\4-year\Project 3\Source\PatientManagement\obj\Debug\PatientManagement.pdb
+D:\University\4-year\Project 3\Source\PatientManagement\bin\PatientManagement.dll.config
+D:\University\4-year\Project 3\Source\PatientManagement\bin\PatientManagement.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\PatientManagement.pdb
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\csc.exe
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\csc.exe.config
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\csc.rsp
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\csi.exe
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\csi.exe.config
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\csi.rsp
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.AppContext.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Console.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.IO.Compression.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.IO.Pipes.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.Claims.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.ValueTuple.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Xml.XPath.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\vbc.exe
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\vbc.exe.config
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\vbc.rsp
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\VBCSCompiler.exe
+D:\University\4-year\Project 3\Source\PatientManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Antlr3.Runtime.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\AutoMapper.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\BELibrary.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\CKFinder.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\EntityFramework.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\EntityFramework.SqlServer.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\log4net.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Newtonsoft.Json.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.ValueTuple.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Helpers.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Mvc.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Optimization.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Razor.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.WebPages.Deployment.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.WebPages.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.WebPages.Razor.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\WebGrease.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Z.EntityFramework.Plus.EF6.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Z.EntityFramework.Extensions.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Z.Expressions.Eval.dll
+D:\University\4-year\Project 3\Source\PatientManagement\bin\BELibrary.pdb
+D:\University\4-year\Project 3\Source\PatientManagement\bin\BELibrary.dll.config
+D:\University\4-year\Project 3\Source\PatientManagement\bin\AutoMapper.pdb
+D:\University\4-year\Project 3\Source\PatientManagement\bin\AutoMapper.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\EntityFramework.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\EntityFramework.SqlServer.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\log4net.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.ValueTuple.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Helpers.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Mvc.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Optimization.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.Razor.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.WebPages.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.WebPages.Deployment.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\System.Web.WebPages.Razor.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Newtonsoft.Json.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Antlr3.Runtime.pdb
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Z.EntityFramework.Plus.EF6.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Z.EntityFramework.Extensions.xml
+D:\University\4-year\Project 3\Source\PatientManagement\bin\Z.Expressions.Eval.xml
+D:\University\4-year\Project 3\Source\PatientManagement\obj\Debug\PatientManagement.csproj.CopyComplete
