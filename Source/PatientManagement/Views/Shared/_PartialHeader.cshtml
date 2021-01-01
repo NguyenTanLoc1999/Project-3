@@ -46,6 +46,22 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
+                    <!--Embed Video-->
+                    <a href="#" class="btn btn-default" id="btnforvideo" data-toggle="modal" data-target="#videoModal">VIDEO</a>
+                    <div class="modal fade modal-xl" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+                        <div class="modal-dialog modal-xl">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                    <div>
+                                        <div id="otEmbedContainer" style="width:540px; height:540px"></div>
+                                        <script src="https://tokbox.com/embed/embed/ot-embed.js?embedId=45cd2c67-8816-4c9c-8a39-5c70f1db2fe3&room=group1"></script>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <li class="drop"><a class='active' href="/">Home</a></li>
                     <li><a href='/home/about'>About us</a></li>
                     <li class="drop">
